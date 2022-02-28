@@ -1,0 +1,25 @@
+segment_sources:
+  PCF49A281:
+    type: origin_type
+    relation: translation
+    language: en
+  P25645A61:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  46392205eed6490ebb542bdbfae44ae5:
+    PCF49A281: c05f393e5afc4b83b47618908554c97d
+    P25645A61: a8ea74d642bb48218063c0b2472c64d5
+  edbef5c6817048b89576e9e56edc325a:
+    PCF49A281: f64899e12fcf42328d3750d9820ade1d
+    P25645A61: 106847e2a6d54d5689dd7caf78d58982
+  1b292ea0a7424890be01d9a6bb45113f:
+    PCF49A281: abf09b063f8e4e51ba948ada41f52137
+    P25645A61: 241a907222694a608aca8c4cacce2aa6
+  06d307035e464caba05e070759e381e5:
+    PCF49A281: 586bcb13b94b4581ac5ec60c897447e4
+    P25645A61: 6ac61875657d4843ad63b283a3f1cf3e
+  da6000f81797425489e0ab9fea70cf93:
+    PCF49A281: 8cdae218a8464364bf68c73bffb82b77
+    P25645A61: 45ff530d55c646beb8905b7f0b38adbd
